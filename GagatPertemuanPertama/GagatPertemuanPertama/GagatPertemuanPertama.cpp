@@ -6,7 +6,7 @@ int main()
 	// numeric nJejari, nluas
 	float nJejari, nluas;
 	// display 'Masukan jejari= '
-	cout << "Masukan Jenis";
+	cout << "===Hitung Luas Lingkaran===";
 	// accept nJejari
 	cin >> nJejari;
 	// compute nluas = 3,14 * r * r
